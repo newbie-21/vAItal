@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="vAItal_logo.png" width="200"/>
+  <img src="vAItal_logo.png" width="500"/>
 </p>
 
 # vAItal
