@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/vAItal_logo.png" width="600"/>
+  <img src="vAItal_logo.png" width="600"/>
 </p>
 ---
 # vAItal
@@ -8,4 +8,4 @@ A free, AI-driven mobile safety system that utilizes smartwatch vitals and LLM-b
 ---
 
 # 📊 System Workflow
-![System Workflow](assets/chart.png)
+![System Workflow](chart.png)
