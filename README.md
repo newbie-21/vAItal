@@ -35,3 +35,8 @@ TWILIO_FROM_NUMBER=your_twilio_phone_number_here
 
 # Emergency Contact
 DOCTOR_PHONE_NUMBER=recipient_phone_number_for_alerts
+ ```
+
+---
+
+[![Demo Video](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1c3iDqQHG53h5zxUQBX9Ge6tgwU2n8G2z/view?usp=sharing)
