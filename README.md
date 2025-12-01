@@ -18,9 +18,9 @@ A free, AI-driven mobile safety system that utilizes smartwatch vitals and LLM-b
 # 🔐 Environment Variables
 
 This project requires a `.env` file to run.  
-Your actual `.env` file **must NOT be uploaded** to GitHub.
+Your actual `.env` file **HAS NOT BEEN UPLOADED** to GitHub Repo.
 
-Instead, a `.env.template` file is included which lists the required variable names.
+Instead, a `.env.template` file is included here, which lists the required variable names.
 
 Create a `.env` file in the project root and add:
 
